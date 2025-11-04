@@ -1,0 +1,5 @@
+Prio: Urgent
+
+Name: User Issue: Router problem
+Submitted: 2025-11-03T20:27:56.120-05:00
+Description: The user reports that their router isn't routing properly.
